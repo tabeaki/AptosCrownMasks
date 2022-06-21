@@ -5,9 +5,7 @@
 ## Vision
 To be the first to implement NFT in Layer1 and Layer2, which will be launched in the future.
 
-## Witch Verse Labs Mission:
-
-Witch Verse Labs Roadmap
+## Aptos Crown Masks Mission:
 
 Aptos Crown Masks (Price: T.B.D)
 -aptos is a new Layer1 and is being developed by Facebook (formerly Libra) developers.
@@ -15,7 +13,6 @@ Aptos Crown Masks (Price: T.B.D)
 -NFT is currently in production.
 -We will use a new programming language called MOVE and will investigate how it differs from Solidity.
 -We plan to expand with new market prices such as Martin Wallet and Pontem.
-
 
 ## Contacts:
 
