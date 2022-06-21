@@ -1,4 +1,4 @@
-![2400x1350](https://user-images.githubusercontent.com/34627453/153942469-51c5458b-40e9-4736-88b5-8ceff9971e4b.png)
+![2000x2000](https://github.com/tabeaki/AptosCrownMasks/blob/main/public/WitchVerseLabs_icon.png)
 
 # Witch Verse Labs NFT collection AptosCrownMasks
 
