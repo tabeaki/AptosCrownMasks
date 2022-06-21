@@ -1,0 +1,42 @@
+{
+  "CONTRACT_ADDRESS": "0x8b5d62f396Ca3C6cF19803234685e693733f9779",
+  "SCAN_LINK": "https://blockscout.com/astar/address/0x8b5d62f396Ca3C6cF19803234685e693733f9779",
+  "NETWORK": {
+    "NAME": "Astar ",
+    "SYMBOL": "ASTR",
+    "ID": 592,
+    "DECIMALS": 18,
+    "RPC_URL": "https://rpc.astar.network:8545",
+    "BLOCK_EXPLORER_URL": "https://blockscout.com/astar/"
+  },
+  "NETWORK_shibuya": {
+    "NAME": "shibuya",
+    "SYMBOL": "SBY",
+    "ID": 81,
+    "DECIMALS": 18,
+    "RPC_URL": "https://rpc.shibuya.astar.network:8545",
+    "BLOCK_EXPLORER_URL": "https://shibuya.subscan.io"
+  },
+  "NETWORK_localhost": {
+    "NAME": "localhost",
+    "SYMBOL": "ETH",
+    "ID": 31337,
+    "DECIMALS": 18,
+    "RPC_URL": "https://rpc.astar.network:8545",
+    "BLOCK_EXPLORER_URL": "https://astar.subscan.io"
+  },
+  "NFT_NAME": "Astar Cats",
+  "SYMBOL": "CAT",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST_PUBLIC": 300000000000000000000,
+  "DISPLAY_COST_PUBLIC": 300,
+  "WEI_COST_PRE": 250000000000000000000,
+  "DISPLAY_COST_PRE": 250,
+  "GAS_LIMIT": 300000,
+  "PAUSED": false,
+  "PRESALE": false,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/collection/astarcats/items",
+  "MAX_MINT_AMOUNT_PRE": 5,
+  "MAX_MINT_AMOUNT_PUBLIC": 10
+}
