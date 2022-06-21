@@ -1,32 +1,42 @@
 ![2400x1350](https://user-images.githubusercontent.com/34627453/153942469-51c5458b-40e9-4736-88b5-8ceff9971e4b.png)
 
-# AstarDegens NFT collection
+# Witch Verse Labs NFT collection AptosCrownMasks
 
 ## Vision
 Incubating promising projects and bringing new ideas to the Astar Ecosystem with the help of a community-governed DAO fund.
 
-## Astar Degens Mission:
+## Witch Verse Labs Mission:
 
-Astar Degens is a community without hierarchy. Where impactful action is incentivized and rewarded. We welcome all ideas equally, and value productive effort. As a community, we help realize the value of supportive cooperation within the blockchain space, by encouraging fearless participation within the [Astar Network](https://astar.network/).
+Witch Verse Labs Roadmap
 
-We aim to maximize both utility and transparency. We reward and reinvest in our community. We encourage innovation and creativity, allowing us to cultivate interoperability from the ground up. Our collective efforts will act as a community incubator, allowing abstract ideas to transition toward economically viable projects. Community participation and DAO voting will direct our treasury toward supporting promising creators within the Astar ecosystem. Whether you are an artist, creator, influencer, developer, degen, or ape; all are welcome, and all will be rewarded for their constructive contributions. 
+Vision: To be the first to implement NFT in Layer1 and Layer2, which will be launched in the future.
 
-We believe our platform will create a thriving ecosystem, by incentivizing individual participation. Our DAO is a powerful tool needed to bring new ideas forward, and to build a robust future for the interoperable block-chain space. 
+----- 
+①Optimism ETH Masks (Price: Free Mint)
+-NFT in our beginnings.
+-Collection of 6,000 pieces in Free Mint.
+-We will register TofuNFT, etc.
+-We want to collaborate a lot more than just Optimism!
+-We will not collaborate if there is a cost involved.
 
-We are relentless.
+----- 
+②Aptos Token Masks (Price: T.B.D)
+-aptos is a new Layer1 and is being developed by Facebook (formerly Libra) developers.
+-Freemint plans to have about 100,000 collections.
+-NFT is currently in production.
+-We will use a new programming language called MOVE and will investigate how it differs from Solidity.
+-We plan to expand with new market prices such as Martin Wallet and Pontem.
 
-We work as one.
+----- 
+③Sui T.B.D. Masks
+-sui is a new Layer1 and is being developed by Facebook (formerly Libra) developers.
+-There will be over 100,000 collections in the mint.
+-OP ETH Masks EVM NFTs will be experimented to see if they can be migrated to Sui.
+-Sui runs games in Unity, so we will research if we can create value with the NFTs we have issued so far in combination with Unity games.
 
-We are Astar Degens.
-
-70% of the funds raised from NFT minting will be moved to DAO wallet to start supporting the builders & projects from the ASTAR and the wider Polkadot ecosystem
 
 ## Contacts:
 
-Discord : <https://discord.gg/H9wHEjUjc6>
+Discord : <https://discord.gg/zg3qsCnz>
 
-Twitter : <https://twitter.com/astardegens>
-
-Youtube: <https://www.youtube.com/channel/UCFNkLmrqNJExZ9nmQIJtpNg/videos>
-
-Email : <astardegens@gmail.com>
+Twitter : <https://twitter.com/WitchVerseLabs>
