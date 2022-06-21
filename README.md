@@ -1,4 +1,4 @@
-![2000x2000](https://github.com/tabeaki/AptosCrownMasks/blob/main/public/WitchVerseLabs_icon.png)
+![1000x1000](https://github.com/tabeaki/AptosCrownMasks/blob/main/public/WitchVerseLabs_icon.png)
 
 # Witch Verse Labs NFT collection AptosCrownMasks
 
