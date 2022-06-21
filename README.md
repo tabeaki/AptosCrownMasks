@@ -7,13 +7,13 @@ To be the first to implement NFT in Layer1 and Layer2, which will be launched in
 
 ## Aptos Crown Masks Mission:
 
-Aptos Crown Masks (Price: T.B.D)
--aptos is being developed by Facebook (formerly Libra) developers in the new Layer 1.
--First NFT on Aptos for you.
--100,000 collections to be released.
--NFT is currently in production.
--We will use a new programming language called MOVE, so we will investigate what makes it different from Solidity.
--NFT will be available at new market prices such as Martin Wallet and Pontem.
+Aptos Crown Masks (Price: T.B.D)<br/>
+-aptos is being developed by Facebook (formerly Libra) developers in the new Layer 1.<br/>
+-First NFT on Aptos for you.<br/>
+-100,000 collections to be released.<br/>
+-NFT is currently in production.<br/>
+-We will use a new programming language called MOVE, so we will investigate what makes it different from Solidity.<br/>
+-NFT will be available at new market prices such as Martin Wallet and Pontem.<br/>
 
 ## Contacts:
 
